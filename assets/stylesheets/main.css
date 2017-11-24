@@ -53,7 +53,7 @@ a:link, a:visited {
   text-decoration: none;
 }
 a:hover, a:active {
-  color: #cb7d20;
+  color: #cb7d40;
   border-bottom: 1px dashed #cb7d20;
 }
 p + h1 {
